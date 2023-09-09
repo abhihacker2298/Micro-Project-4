@@ -1,0 +1,35 @@
+
+#container {
+    background: #3B4664;
+    width: 1510px; 
+    height: 690px;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+}
+
+#display {
+    background: #181F32; 
+    width: 300px; 
+    height: 100px; 
+    margin-top: 20px; 
+    margin-bottom: 10px; 
+    border-radius: 8px;
+    text-align: right;
+    color: #FFF;
+    font-size: 30px;
+}
+
+.btn {
+    background: #EAE3DB;
+    width: 55px;
+    height: 35px;
+    border-radius: 7px;
+    font-size: 18px;
+    color:#3B4664;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
